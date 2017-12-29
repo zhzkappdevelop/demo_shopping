@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#FF4081</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="appTheme">#666666</color>
+    <color name="navigation_bar_index">#FF4123</color>
+    <color name="transparency">#00000000</color>
+</resources>
